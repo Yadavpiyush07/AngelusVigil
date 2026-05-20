@@ -141,3 +141,12 @@ Learn modules are coming soon and will cover:
 - Line-by-line implementation walkthrough
 - Extension challenges (GeoIP blocking, custom rule authoring, active learning)
 
+
+## SCREENSHOTS
+
+<img width="864" height="702" alt="image" src="https://github.com/user-attachments/assets/3033eca8-0cb2-4d33-96e7-67c8812fd662" />
+<img width="864" height="702" alt="image" src="https://github.com/user-attachments/assets/b25a54be-3dfc-4f0a-8007-703579622e61" />
+<img width="915" height="550" alt="image" src="https://github.com/user-attachments/assets/a7def30b-01a5-490c-be87-6f857f5624af" />
+
+
+
